@@ -1,2 +1,2 @@
 # hellow-world
-A new repository to learn about GitHub and collaboration
+A new repository as the first step learning about GitHub
